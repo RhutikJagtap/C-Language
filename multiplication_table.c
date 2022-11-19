@@ -1,4 +1,4 @@
-//c programme to multiplication table
+//c programme to print multiplication table
 #include<stdio.h>
 void main()
 {
